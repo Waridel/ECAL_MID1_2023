@@ -11,6 +11,7 @@ class Tile {
     // this.r = Math.round(Math.random() * 255);
     // this.g = Math.round(Math.random() * 255);
     // this.b = Math.round(Math.random() * 255);
+  
   }
 
   updateAngle() {
