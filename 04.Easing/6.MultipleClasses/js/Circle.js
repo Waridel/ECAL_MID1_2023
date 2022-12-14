@@ -49,14 +49,7 @@ class Circle {
    */
   resetAndGo(target) {
     this.t = 0;
-    // this.origin = {
-    //   x: this.target.x,
-    //   y: this.target.y,
-    // };
-    // this.target = {
-    //   x,
-    //   y,
-    // };
+    
 
     this.originRadius = this.radius;
     this.targetRadius = target;
