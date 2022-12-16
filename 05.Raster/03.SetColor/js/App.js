@@ -53,7 +53,7 @@ class App {
         this.rgb.push({
           r: this.pixels[index],
           g: this.pixels[index + 1],
-          b: this.pixels[index + 2],
+          b: this.pixels[index + 2],s
           a: this.pixels[index + 3],
         });
       }
